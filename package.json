@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "https://Alinav28.github.io/goit-js-hw-10-food-service"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://Alinav28.github.io/goit-js-hw-10-food-service"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
